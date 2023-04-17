@@ -1,4 +1,4 @@
-# 3D-world Racing game in openGL
+# 3D-world Racing game
 
 This game is called "stupid racing game".
 
